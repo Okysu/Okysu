@@ -1,7 +1,7 @@
 <h1 align="center">(｡･∀･)ﾉﾞ嗨 👋，我是 Okysu</h1>
 <h3 align="center">来自中国江苏的全栈开发玩家</h3>
 
-- 🔭 我目前正在制作 [MatchGo](https://github.com/Okysu/MatchGo)
+- 🔭 我目前正在制作 [SeaSideUI](https://github.com/Okysu/SeaSideUI)
 
 - 🌱 我目前正在学习 **Vue.js、React.js、Kotlin、Java、Python**
 
