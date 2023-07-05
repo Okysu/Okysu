@@ -15,7 +15,7 @@
 
 - 📫 我的个人邮箱 **yby@ecanse.com**
 
-- 📄 知道关于我更多的事情 [https://yby.zone/about](https://yby.zone/about)
+- 📄 知道关于我更多的事情 [https://yby.zone/about.html](https://yby.zone/about.html)
 
 - ⚡ 有趣的事实 **我是轮子怪**
 
