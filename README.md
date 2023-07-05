@@ -3,9 +3,9 @@
 
 - 🔭 我目前正在制作 [SeaSideUI](https://github.com/Okysu/SeaSideUI)
 
-- 🌱 我目前正在学习 **Vue.js、React.js、Kotlin、Java、Python**
+- 🌱 我目前正在学习 **Vue.js、React.js、Kotlin、Java、Python、Golang**
 
-- 👯 我目前正在和别人合作 **CSLG-Lab-Manager**
+- 👯 我目前正在和别人合作 **NoTODO**
 
 - 👨‍💻 我的仓库地址 [https://github.com/Okysu/](https://github.com/Okysu/)
 
@@ -15,7 +15,7 @@
 
 - 📫 我的个人邮箱 **yby@ecanse.com**
 
-- 📄 知道关于我更多的事情 [https://yby.zone/about/](https://yby.zone/about/)
+- 📄 知道关于我更多的事情 [https://yby.zone/about](https://yby.zone/about)
 
 - ⚡ 有趣的事实 **我是轮子怪**
 
