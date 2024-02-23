@@ -1,11 +1,11 @@
 <h1 align="center">(｡･∀･)ﾉﾞHi there! 👋 I'm Okysu</h1>
-<h3 align="center">A full-stack developer from Jiangsu, China 🇨🇳</h3>
+<h3 align="center">A full-stack and AI developer from Jiangsu, China 🇨🇳</h3>
 
-- 🔭 I'm a third-year student majoring in Software Engineering and currently a Microsoft Student Ambassador Beta Milestone.
+- 🔭 I'm a third-year student majoring in Software Engineering and currently a Microsoft Student Ambassador Gold🏅 Milestone.
 
 - 🌱 I'm currently learning **Vue.js, React.js, Kotlin, Java, Python, and Golang**.
 
-- 👯 My Microsoft Student Ambassador profile: [https://mvp.microsoft.com/zh-CN/studentambassadors/profile/1cba6b30-3e38-4959-9863-c8cd7ee9e133](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/1cba6b30-3e38-4959-9863-c8cd7ee9e133)
+- 👯 My Microsoft Student Ambassador profile: [https://mvp.microsoft.com/zh-CN/studentambassadors/profile/1cba6b30-3e38-4959-9863-c8cd7ee9e133](https://mvp.microsoft.com/studentambassadors/profile/1cba6b30-3e38-4959-9863-c8cd7ee9e133)
 
 - 👨‍💻 My repositories: [https://github.com/Okysu/](https://github.com/Okysu/)
 
