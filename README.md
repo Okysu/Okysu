@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack & AI Developer from Jiangsu, China 🇨🇳 </h3>
 <p align="center">
     <a href="https://www.credly.com/badges/50af8f86-84a3-4ebe-a63a-63310035a152" target="_blank" title="Microsoft Student Ambassador Gold Badge on Credly">
-    <img src="https://images.credly.com/images/930c9636-368a-4cb2-8aaa-cb67d6d217f7/blob" alt="Microsoft Student Ambassador Gold Badge" style="height: 40px; margin-left: 10px; vertical-align: middle;" />
+    <img src="https://images.credly.com/size/680x680/images/ef243569-f022-42fb-8060-a05ad4817cae/blob" alt="Microsoft Student Ambassador Gold Badge" style="height: 40px; margin-left: 10px; vertical-align: middle;" />
   </a>
   <a href="https://mvp.microsoft.com/zh-CN/studentambassadors/profile/1cba6b30-3e38-4959-9863-c8cd7ee9e133" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Student_Ambassador-Gold-blue?style=for-the-badge&logo=microsoft" alt="Microsoft Student Ambassador Gold">
