@@ -1,84 +1,124 @@
-<h1 align="center">(｡･∀･)ﾉﾞ Hi there! 👋 I'm Okysu</h1>
-<h3 align="center">A Full-Stack & AI Developer from Jiangsu, China 🇨🇳 </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:36BCF7&height=180&section=header&text=Boyang%20Yu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%C3%97%20Embodied%20Intelligence%20%C3%97%20HarmonyOS&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=R%26D+Engineer+%40+Embodied+Intelligence;HarmonyOS+NEXT+Independent+Developer;HDC+2026+%C2%B7+Starlight+Avenue+Invitee;Gold+MLSA+Alumnus+%C2%B7+AI+Full-Stack+Builder;Language+Design+%C3%97+Compilers+%C3%97+Agents" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="center">
-    <a href="https://www.credly.com/badges/50af8f86-84a3-4ebe-a63a-63310035a152" target="_blank" title="Microsoft Student Ambassador Gold Badge on Credly">
-    <img src="https://images.credly.com/size/680x680/images/ef243569-f022-42fb-8060-a05ad4817cae/blob" alt="Microsoft Student Ambassador Gold Badge" style="height: 40px; margin-left: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://mvp.microsoft.com/zh-CN/studentambassadors/profile/1cba6b30-3e38-4959-9863-c8cd7ee9e133" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Student_Ambassador-Gold-blue?style=for-the-badge&logo=microsoft" alt="Microsoft Student Ambassador Gold">
-  </a>
+  <sub><b>Turning ambiguous ideas into products that run, sense and ship.</b></sub>
 </p>
 
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/HDC_2026-HarmonyOS_Starlight_Avenue_Invitee-0A59F7?style=flat-square&logo=harmonyos&logoColor=white" alt="HDC 2026 Starlight Avenue Invitee" />
+  <img src="https://img.shields.io/badge/Gold_MLSA-Alumni-0F6CBD?style=flat-square&logo=microsoft&logoColor=white" alt="Gold Microsoft Learn Student Ambassador · Alumni" />
+  <img src="https://img.shields.io/badge/Featured_on-CCTV_Science_%26_Education-C8102E?style=flat-square&logo=cctv&logoColor=white" alt="Featured on CCTV" />
+  <img src="https://komarev.com/ghpvc/?username=okysu&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
 </p>
 
------
-
-### 🌟 Highlights
-- 🏅 **Microsoft Student Ambassador Gold** - Promoted through Beta to Gold milestone
-- 🎖️ **National Third Prize** in China University Computer Design Competition 2023
-- 📜 **5 Software Copyright Certificates** as first inventor and project leader
-- 🚀 **Lightning Learning**: Mastered Go in just 1 week to win a programming contest
-- 🎯 **Live Teaching**: Conducted multiple livestreams with Microsoft MVPs on AI/ML topics
-- 🌐 **Open Source Contributor**: Built custom interpreters, language parsers, and AI tools
-- 📱 **Harmony OS Developer**: Created viral music app with 500+ downloads on day one
-
-### 🎓 About Me
-- 🎓 I have graduated with a Bachelor's degree in Software Engineering from **Changshu Institute of Technology**.
-- 🤖 My current focus is on **AI, Large Language Models (LLM), and Robotics**.
-- 🌱 I'm continuously learning and working with technologies like **Vue.js, React.js, Kotlin, Java, Python, and Golang**.
-- 🔭 I'm passionate about building innovative applications and contributing to the open-source community.
-- 🏆 **National Third Prize** winner in China University Computer Design Competition.
-- 📚 **5 Software Copyright Certificates** as first inventor and project leader.
-- ⚡ **Fun fact:** I'm a wheel player and learned Go in just 1 week to win a programming contest!
-
------
-
-### 🚀 Find Me Online
 <p align="center">
-  <a href="https://github.com/Okysu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://blog.yby.zone" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-My_Personal_Blog-2a9d8f?style=for-the-badge&logo=blogger" alt="Personal Blog">
-  </a>
-  <a href="https://www.yby.zone/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-My_Online_CV-e76f51?style=for-the-badge&logo=read-the-docs" alt="Online Resume">
-  </a>
-  <a href="mailto:yby@ecanse.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Me-d62828?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  📍 Wuxi, China 🇨🇳 &nbsp;·&nbsp;
+  <a href="https://yby.zone">yby.zone</a> &nbsp;·&nbsp;
+  <a href="https://oky.su">oky.su</a> &nbsp;·&nbsp;
+  <a href="https://blog.yby.zone">Blog</a> &nbsp;·&nbsp;
+  <a href="mailto:yby@ecanse.com">yby@ecanse.com</a>
 </p>
 
+---
 
------
+### 🔭 Now
 
-### 📊 My GitHub Stats
+**R&D Engineer at an embodied-intelligence company in Wuxi** — working on the link between models, software systems and the physical world, making it reliable enough that an LLM in the loop doesn't fail on a machine that actually moves.
+
+Two threads I keep coming back to:
+
+- **The HarmonyOS ecosystem, full stack.** From application layer down through runtime — music player UI containers, audio decoding, color tooling, CI build scripts. My anti-to-do app **Subtraction List** was selected for the **HarmonyOS Starlight Avenue** showcase at **HDC 2026** (Productivity & Efficiency track, one of 40+ invited developers worldwide).
+- **Languages & tooling, built by hand.** Lexer, parser, runtime. A tree-walking interpreter in Rust, a markup language for visual novels, and small tools that solve my own problems.
+
+> Less is more. One person can still grow a forest.
+
+---
+
+### 🌟 Selected Experience
+
+**🦾 Embodied Intelligence · Industrial Robotics** — Core Engineer / AI Technical Lead
+Integrated LLMs into an industrial robot vision system: RAG-based fault diagnosis and real-time voice alerts, turning model capability into a working industrial AI prototype. Showcased at the Wuxi Robotics Expo and broadcast on **CCTV Science & Education Channel**.
+
+**🪟 Microsoft Learn Student Ambassador** — Gold · Alumni (Beta → Gold, Feb 2024)
+*(Program completed upon graduation — profile page retired.)* Promoted through TypeScript & Azure OpenAI workshops; kept organizing AI, Copilot and cloud sessions with Microsoft MVPs, and spoke to the global community on **Microsoft Reactor** about LangChain.js and RAG.
+
+**🎵 HarmonyOS Product Experiment** — A HarmonyOS NEXT music client designed and shipped in **3 days**: **500+ downloads on day one**, a 500+ user community, and featured twice by a tech creator with a million followers.
+
+**🎓 University Innovation Lab** — Core Developer / Team Coordinator
+Led a student innovation & entrepreneurship management system from a school-level project to a **provincial key project**, securing a software copyright along the way.
+
+**🏆 Competition & IP** — National Third Prize, China Collegiate Computing Competition (Team Lead) · **5 software copyright certificates** (first inventor / project lead).
+
+---
+
+### 🚀 Building in Public
+
+| Project | What it is |
+| :--- | :--- |
+| **OmniTool** | Device-first multimedia workbench — PDF composition, image rendering, A/V transcoding and offline model inference, all in-browser via WebAssembly & Web Workers. Nothing gets uploaded. |
+| **1y** | A tree-walking interpreted language in **Rust** — persistent data structures, pattern matching, actor-based concurrency and STM, backed by arbitrary-precision arithmetic. |
+| **NovaMark** | A markup language and cross-platform runtime for text games, interactive fiction and visual novels — with an official registry and an ArkTS minimal template. |
+| **light** | A local-first knowledge base for notes and links, with encrypted S3 sync. |
+| **vision-mcp** | An MCP server for visual understanding — wiring image analysis into LLM workflows. |
+| **NL Query Engine** | A SQL-like query language designed to fix insufficient RAG retrieval precision, turning unstructured text into composable, executable queries. |
+
+---
+
+### 🛠️ Toolbox
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okysu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,rust,go,python,kotlin,java,cpp,nodejs,mysql,postgres,redis,mongodb,docker,linux,git,githubactions,pytorch&perline=10" alt="Tech Stack" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okysu&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <sub>
+    <b>AI</b> LangChain · RAG · MCP · PyTorch &nbsp;|&nbsp;
+    <b>Mobile</b> HarmonyOS NEXT · OpenHarmony · ArkTS · NAPI &nbsp;|&nbsp;
+    <b>Systems</b> WebAssembly · Compilers &amp; Runtimes
+  </sub>
 </p>
 
------
-
-### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=okysu" alt="GitHub Trophies" />
-  </a>
+  <i>I don't lock myself into one stack — I pick the tool for the problem and own the final experience.</i>
 </p>
 
------
+---
+
+### 📈 GitHub Pulse
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=okysu&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/36BCF7/okysu" alt="Contribution Graph" width="96%" />
+</p>
+
+---
+
+### ☕ Let's Talk
+
+HarmonyOS, embodied intelligence, open-source collaboration — or just a coffee chat.
+
+<p align="center">
+  <a href="https://github.com/Okysu"><img src="https://img.shields.io/badge/GitHub-Okysu-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://yby.zone"><img src="https://img.shields.io/badge/Portfolio-yby.zone-e76f51?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://oky.su"><img src="https://img.shields.io/badge/oky.su-Selected_Work-2a9d8f?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="oky.su"></a>
+  <a href="mailto:yby@ecanse.com"><img src="https://img.shields.io/badge/Email-yby@ecanse.com-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <i>Live a life I will remember. — Be my own branch, keep three feet of room, play myself as the piece, and win half a move against heaven.</i>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:203A43,100:0F2027&height=120&section=footer" alt="Footer" width="100%" />
+</div>
